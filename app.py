@@ -87,3 +87,5 @@ class ImageSpider:
 
 spider = ImageSpider()
 spider.download_images()
+
+#ruslan pidorasik
